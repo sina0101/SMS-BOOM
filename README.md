@@ -22,7 +22,7 @@
 🚀 چطور نصب کنیم؟:
 ```
 git clone https://github.com/sina0101/SMS-BOOM.git
-cd SMS-Bomber
+cd SMS-BOOM
 pip install -r requirements.txt
 python3 main.py <target-phone-number>
 ```
