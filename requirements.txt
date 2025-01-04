@@ -1,0 +1,5 @@
+argparse
+requests
+alive-progress
+colorama
+fake-headers
