@@ -35,6 +35,10 @@ python3 main.py <target-phone-number>
 
 
 *استارت:*
+
+
+
+
 ![Screenshot from 2025-01-04 18-36-33](https://github.com/user-attachments/assets/fa8b2cf9-d432-4402-9378-db33dac0eb71)
 ![Screenshot from 2025-01-04 18-36-51](https://github.com/user-attachments/assets/fdf4396b-b0f8-46eb-9389-c1025c403702)
 ![Screenshot from 2025-01-04 18-37-10](https://github.com/user-attachments/assets/040cee63-b5ef-4295-b4d5-16b7c71fb1a7)
